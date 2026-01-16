@@ -465,3 +465,7 @@ Perfect for:
 - Command-line interface development
 
 **Happy SQL querying! 🚀**
+<br><br>
+<img src-"<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/3596b4cd-fdef-41be-b49a-dd115f593113" />
+"
+
